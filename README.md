@@ -1,13 +1,16 @@
 # ZWProgress
 
-[![Version](http://cocoapod-badges.herokuapp.com/v/ZWProgress/badge.png)](http://cocoadocs.org/docsets/ZWProgress)
-[![Platform](http://cocoapod-badges.herokuapp.com/p/ZWProgress/badge.png)](http://cocoadocs.org/docsets/ZWProgress)
+Simple bottom indicator like Facebook app.
 
 ## Usage
 
 To run the example project; clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
+To show indicator
+	[ZWProgress showProgress];
+	
+To dismiss indicator
+	[ZWProgress dismiss];
 
 ## Installation
 
