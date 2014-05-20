@@ -6,10 +6,12 @@ Simple bottom indicator like Facebook app.
 
 To run the example project; clone the repo, and run `pod install` from the Example directory first.
 
-To show indicator
+To show indicator:
+
 	[ZWProgress showProgress];
 	
-To dismiss indicator
+To dismiss indicator:
+
 	[ZWProgress dismiss];
 
 ## Installation
