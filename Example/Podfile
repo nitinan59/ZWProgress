@@ -1,7 +1,1 @@
 pod "ZWProgress", :path => "../"
-
-target "Demo" do
-end
-
-target "DemoTests" do
-end

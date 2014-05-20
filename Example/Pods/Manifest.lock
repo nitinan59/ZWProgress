@@ -1,0 +1,14 @@
+PODS:
+  - ZWProgress (0.0.1)
+
+DEPENDENCIES:
+  - ZWProgress (from `../`)
+
+EXTERNAL SOURCES:
+  ZWProgress:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZWProgress: 461dbad7a66a586a8e7ec26b583b698da7ed13eb
+
+COCOAPODS: 0.32.1
